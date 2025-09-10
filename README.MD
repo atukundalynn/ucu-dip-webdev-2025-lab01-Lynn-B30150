@@ -18,3 +18,6 @@ Open `index.html` in a browser (or use VS Code Live Server).
 - What is an HTTP request/response?
 - Which status code did you see, and what does it mean?
 - One thing you learned about Git today.
+
+![alt text](image.png)
+![alt text](<Screenshot 2025-09-10 160146.png>)
